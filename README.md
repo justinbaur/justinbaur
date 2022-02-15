@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in the developer experience
 - 🌱 I’m currently learning anything cloud native
-- 💞️ I’m looking to collaborate on tooling
+- 💞️ I’m looking to collaborate on garden or homebrewing related automation
 
 <!---
 justinbaur/justinbaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

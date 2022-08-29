@@ -1,8 +1,8 @@
 👋 Hi, I’m @justinbaur
 
-- 👀 I’m interested in the developer experience
-- 🌱 I’m currently learning anything cloud native
-- 💞️ I’m looking to collaborate on garden or homebrewing related automation
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning anything I need at the moment
+- 💞️ I’m looking to collaborate on happy hour
 
 <!---
 justinbaur/justinbaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

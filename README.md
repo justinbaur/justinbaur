@@ -1,7 +1,7 @@
 👋 Hi, I’m @justinbaur
 
 - 👀 I’m interested in Python, Automation, Developer Tooling and Game Development
-- 🌱 I’m currently learning anything I need at the moment
+- 🌱 I’m currently learning technical writing
 - 💞️ I’m looking to collaborate on happy hour
 
 <!---

@@ -1,7 +1,7 @@
 👋 Hi, I’m @justinbaur
 
-- 👀 I’m interested in Python, Automation, Developer Tooling and Game Development
-- 🌱 I’m currently learning React Native and SvelteKit
+- 👀 I’m interested in Python, Automation, Developer Tooling and Capture the Flag events.
+- 🌱 I’m currently relearning and exploring ethical hacking.
 - 💞️ I’m looking to collaborate on happy hour 🍻
 
 <!---

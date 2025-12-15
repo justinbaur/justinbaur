@@ -1,7 +1,7 @@
 👋 Hi, I’m @justinbaur
 
-- 👀 I’m interested in Python, Automation, Developer Tooling and Capture the Flag events.
-- 🌱 I’m currently relearning and exploring ethical hacking.
+- 👀 I’m interested in Python, Automation, Developer Tooling, Game Development 🎮 and Capture the Flag events 🏴‍☠️
+- 🌱 I’m currently side questing ethical hacking and game development
 - 💞️ I’m looking to collaborate on happy hour 🍻
 
 <!---

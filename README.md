@@ -1,6 +1,6 @@
 👋 Hi, I’m @justinbaur
 
-- 👀 I’m interested in Developer Tooling, Game Development 🎮 and Capture the Flag events 🏴‍☠️
+- 👀 I’m interested in Developer Tooling 🧰, Game Development 🎮 and Capture the Flag events 🏴‍☠️
 - 🌱 I’m currently side questing ethical hacking and game development
 - 💞️ I’m looking to collaborate on happy hour 🍻
 
